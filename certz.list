@@ -1,0 +1,4 @@
+#filename!CN!OU!SAN!Keystore_password
+localhost!localhost!hosts!DNS:localhost,DNS:localhost.localdomain,IP:127.0.0.1!localhost_pass
+someapp!someapp.example.com!apps!DNS:someapp.example.com!someapp_pass
+justin!justin!users!email:justin@example.com!justin_pass
